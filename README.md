@@ -1,9 +1,9 @@
-### Hello! Nice to meet you 👋
+## Hello! Nice to meet you 👋
 
-##### I'm Marina, Junior Frontend Developer and former product owner with a track record at an international automobile company. Passionate about delivering exceptional digital tools and projects that meet customer needs and business requirements. Skilled in business analysis, providing valuable insights for effective communication.
+#### I'm Marina, Junior Frontend Developer and former product owner with a track record at an international automobile company. Passionate about delivering exceptional digital tools and projects that meet customer needs and business requirements. Skilled in business analysis, providing valuable insights for effective communication.
 ---
 
-#### :hammer_and_wrench: Tech Stack
+### :hammer_and_wrench: Tech Stack
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -25,14 +25,14 @@
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-#### :ledger: Stats
+### :ledger: Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarinaKovel&theme=github)
 
-#### :globe_with_meridians: Languages
+### :globe_with_meridians: Languages
 ![en](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png) English (B2+)  |  ![fr](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png) French (C1)  |  ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png) German (B1)  |  ![ru](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png) Russian (native)
 
-#### 🚀 Eager to contribute
+### 🚀 Eager to contribute
 
 - Excited about contributing to the creation of innovative products.
 - Seeking new opportunities to apply my skills and knowledge.
