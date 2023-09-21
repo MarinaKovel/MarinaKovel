@@ -16,6 +16,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+![SASS](https://img.shields.io/badge/Tailwind-38bdf8?logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
