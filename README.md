@@ -1,6 +1,6 @@
 ## Hello! Nice to meet you 👋
 
-#### I'm Marina, Junior Frontend Developer and former product owner with a track record at an international automobile company. Passionate about delivering exceptional digital tools and projects that meet customer needs and business requirements. Skilled in business analysis, providing valuable insights for effective communication.
+#### I'm Marina, Frontend Developer and former product owner with a track record at an international automobile company. Passionate about delivering exceptional digital tools and projects that meet customer needs and business requirements. Skilled in business analysis, providing valuable insights for effective communication.
 ---
 
 ### :hammer_and_wrench: Tech Stack
