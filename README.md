@@ -10,28 +10,33 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-0C66E4?logo=bitbucket&logoColor=white)
+![Lingohub](https://img.shields.io/badge/Lingohub-3466D4?logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESlint-3A33D1?logo=eslint&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764abc?logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?logo=vite&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?logo=graphql&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-de3641?logo=angular&logoColor=white)
+![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?logo=emberdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900)
+![Prettier](https://img.shields.io/badge/Prettier-F8BC45?logo=prettier&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js%20(basics)-339933?logo=nodedotjs&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-1A2b34?logo=prettier&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
-![Cypress](https://img.shields.io/badge/Vitest-17202C?logo=vitest&logoColor=white)
-
-
-
-
+![Node](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-506E10?logo=vitest&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-007780?logo=cypress&logoColor=white)
+![Websockets](https://img.shields.io/badge/Websockets-000000?logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-000000?logo=styledcomponents&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 
 ### :ledger: Stats
 
