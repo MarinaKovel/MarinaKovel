@@ -32,11 +32,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-506E10?logo=vitest&logoColor=white)
-![i18next](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-007780?logo=cypress&logoColor=white)
 ![Websockets](https://img.shields.io/badge/Websockets-000000?logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-000000?logo=styledcomponents&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-007780?logo=cypress&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=white)
 
 ### :ledger: Stats
 
